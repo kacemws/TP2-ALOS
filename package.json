@@ -1,0 +1,19 @@
+{
+  "name": "tp2",
+  "version": "1.0.0",
+  "description": "the 2nd work session for the ALOS subject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kacemws/TP2-ALOS.git"
+  },
+  "author": "Belkacem Berras",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kacemws/TP2-ALOS/issues"
+  },
+  "homepage": "https://github.com/kacemws/TP2-ALOS#readme"
+}
