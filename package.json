@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kacemws/TP2-ALOS/issues"
   },
-  "homepage": "https://github.com/kacemws/TP2-ALOS#readme"
+  "homepage": "https://github.com/kacemws/TP2-ALOS#readme",
+  "devDependencies": {
+    "unirest": "^0.6.0"
+  }
 }
